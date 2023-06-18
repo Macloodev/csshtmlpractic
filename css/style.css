@@ -28,7 +28,7 @@ h2::after {
     color: rgb(171, 168, 168);
 }
 
-h4::after {
+h3::after {
     content: "  New ";
     color: rgb(171, 168, 168);
 }

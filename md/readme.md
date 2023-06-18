@@ -10,6 +10,8 @@
 
 * CSS 
 
+* Markdown
+
 * Web-fonts (Segoe UI)
 
 ## Как открыть/запустить
